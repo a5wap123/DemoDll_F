@@ -25,6 +25,7 @@ namespace Project_Film
         public MainPage()
         {
             this.InitializeComponent();
+
         }
 
         private async void Button_Click(object sender, RoutedEventArgs e)
@@ -42,7 +43,9 @@ namespace Project_Film
 
         private async void ButtonTheLoai_Click(object sender, RoutedEventArgs e)
         {
-            var t = await DataFilm_HDPHim.Config.FilmToTheLoai("1", DataFilm_HDPHim.Enum.Genre.phieuluu);
+            DataFilm_HDPHim.Enum.Genre  c = DataFilm_HDPHim.Enum.Genre.phimchientranh;
+            var q = DataFilm_HDPHim.Common.ListGenre().ToList();
+            var t = await DataFilm_HDPHim.Config.FilmToTheLoai("1", c);
             txtResult.Text = t;
         }
 

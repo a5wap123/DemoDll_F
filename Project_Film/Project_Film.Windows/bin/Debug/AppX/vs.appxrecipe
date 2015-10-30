@@ -26,11 +26,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\bin\Debug\Project_Film.Windows.exe">
       <PackagePath>Project_Film.Windows.exe</PackagePath>
-      <Modified>2015-10-30T05:36:27.221</Modified>
+      <Modified>2015-10-30T06:17:24.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\WIPHONE\Project_Film\DataFilm_HDPHim\bin\Debug\DataFilm_HDPHim.dll">
       <PackagePath>DataFilm_HDPHim.dll</PackagePath>
-      <Modified>2015-10-30T05:32:59.895</Modified>
+      <Modified>2015-10-30T06:17:22.555</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\WIPHONE\Project_Film\DataFilm_HDPHim\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
