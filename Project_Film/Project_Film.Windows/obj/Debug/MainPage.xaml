@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="Project_Film.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Project_Film"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Margin="0 100 0 0" Grid.Column="0">
+
+            <Button x:ConnectionId='1'                            Content="Detail film"></Button>
+            <Button x:ConnectionId='2'                             Content="Pro file"></Button>
+            <Button x:ConnectionId='3'                             Content="Episode"></Button>
+            <Button x:ConnectionId='4'                             Content="Quyality"></Button>
+            <Button x:ConnectionId='5'                          Content="Home"></Button>
+            <Button x:ConnectionId='6'                      Content="Đề cử"></Button>
+            <Button x:ConnectionId='7'                            Content="Top New"></Button>
+            <Button x:ConnectionId='8'                             Content="The Loai"></Button>
+            <Button x:ConnectionId='9'                        Content="Le"></Button>
+            <Button x:ConnectionId='10'                        Content="Bo"></Button>
+            <Button x:ConnectionId='11'                              Content="Kinh dien">
+            </Button>
+            <Button x:ConnectionId='12'                         Content="Chiếu rạp">
+            </Button>
+            <Button x:ConnectionId='13'                             Content="Quốc gia">
+            </Button>
+            <Button x:ConnectionId='14'                               Content="Top 10 Imdb">
+            </Button>
+        </StackPanel>
+        <Grid Margin="0 100 0 0" Grid.Column="1" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBox x:Name="txtUri" Grid.Row="0" TextWrapping="Wrap" PlaceholderText="Uri" Margin="0 0 0 20">
+
+            </TextBox>
+            <TextBox x:Name="txtResult" Grid.Row="1" TextWrapping="Wrap" PlaceholderText="Json">
+
+            </TextBox>
+
+        </Grid>
+        
+    </Grid>
+</Page>
+

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-3QSURKK</Machine>
+    <WindowsUser>a5wap</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5b84d4d8-7477-4430-81fe-3a99b38a2ed6</PackageIdentityName>
+    <IntermediateOutputPath>E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\bin\Debug\Project_Film.WindowsPhone.exe">
+      <PackagePath>Project_Film.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\DataFilm_HDPHim\bin\Debug\DataFilm_HDPHim.dll">
+      <PackagePath>DataFilm_HDPHim.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\DataFilm_HDPHim\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\DataFilm_HDPHim\bin\Debug\GetNodeValue.dll">
+      <PackagePath>GetNodeValue.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\DataFilm_HDPHim\bin\Debug\HtmlAgilityPack-PCL.dll">
+      <PackagePath>HtmlAgilityPack-PCL.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\bin\Debug\Project_Film.WindowsPhone.xr.xml">
+      <PackagePath>Project_Film.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

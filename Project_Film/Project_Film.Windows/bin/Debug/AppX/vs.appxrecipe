@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-3QSURKK</Machine>
+    <WindowsUser>a5wap</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>814521a9-5d81-427b-917d-3a9610d557dc</PackageIdentityName>
+    <IntermediateOutputPath>E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9C1DD987D359006825B511522160EA364F94591FD0C6C743ACFDB2EB97EFF1A8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>814521a9-5d81-427b-917d-3a9610d557dc_1.0.0.0_neutral__ekrfrcasxs5pe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>814521a9-5d81-427b-917d-3a9610d557dc_ekrfrcasxs5pe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>814521a9-5d81-427b-917d-3a9610d557dc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=a5wap</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-30T00:54:02.260</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\bin\Debug\Project_Film.Windows.exe">
+      <PackagePath>Project_Film.Windows.exe</PackagePath>
+      <Modified>2015-10-30T05:36:27.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\DataFilm_HDPHim\bin\Debug\DataFilm_HDPHim.dll">
+      <PackagePath>DataFilm_HDPHim.dll</PackagePath>
+      <Modified>2015-10-30T05:32:59.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\DataFilm_HDPHim\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-10-28T08:55:23.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\DataFilm_HDPHim\bin\Debug\GetNodeValue.dll">
+      <PackagePath>GetNodeValue.dll</PackagePath>
+      <Modified>2015-10-30T02:19:59.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\DataFilm_HDPHim\bin\Debug\HtmlAgilityPack-PCL.dll">
+      <PackagePath>HtmlAgilityPack-PCL.dll</PackagePath>
+      <Modified>2015-09-04T14:53:20.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-10-28T15:48:20.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-10-30T04:28:49.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\bin\Debug\Project_Film.Windows.xr.xml">
+      <PackagePath>Project_Film.Windows.xr.xml</PackagePath>
+      <Modified>2015-10-30T02:28:23.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\WIPHONE\Project_Film\Project_Film\Project_Film.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-30T04:00:33.794</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
